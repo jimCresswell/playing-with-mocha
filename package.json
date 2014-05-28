@@ -1,0 +1,29 @@
+{
+  "name": "playing-with-mocha",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Just playing around with mocha",
+  "main": " ",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^1.20.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimCresswell/playing-with-mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimCresswell/playing-with-mocha/issues"
+  },
+  "homepage": "https://github.com/jimCresswell/playing-with-mocha"
+}
